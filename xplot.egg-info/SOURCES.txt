@@ -1,0 +1,10 @@
+README.md
+setup.py
+xplot/__init__.py
+xplot/xplot.py
+xplot.egg-info/PKG-INFO
+xplot.egg-info/SOURCES.txt
+xplot.egg-info/dependency_links.txt
+xplot.egg-info/not-zip-safe
+xplot.egg-info/requires.txt
+xplot.egg-info/top_level.txt

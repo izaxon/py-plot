@@ -19,6 +19,12 @@ python setup.py build
 
 ## How to install
 
+**Install using pip**
+
+```
+pip install xplot
+```
+
 **Install from this repo**
 
 ```
@@ -29,12 +35,6 @@ python -m pip install .
 
 ```
 python -m pip install git+https://github.com/izaxon/py-plot.git
-```
-
-**Install using pip**
-
-```
-pip install xplot
 ```
 
 ## Use in a Jupyter Notebook

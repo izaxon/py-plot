@@ -17,6 +17,12 @@ Python library for plotting using XPlot in Jupyter notebooks.
 python setup.py build
 ```
 
+### Prepare for PyPi
+```
+python setup.py sdist bdist_wheel
+python -m twine upload dist/*
+```
+
 ## How to install
 
 **Install using pip**
